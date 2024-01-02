@@ -5,4 +5,4 @@ pandas
 openpyxl
 
 ## A tener en cuenta
-Las en el metodo parse hay que escribir el nombre tal cual de la hoja donde queremos obtener información
+Para las hojas en el método "parse" hay que esciribirlas tal cual como viene en el archivo de Excel.
